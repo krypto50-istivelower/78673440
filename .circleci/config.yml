@@ -2,7 +2,7 @@ working_dir: &working_dir ~/app
 version: 2.1
 description: |
   An orb for working with Amazon Elastic Container Service (ECS)
-  ########################################################################################
+  #######################################################################################
 jobs:
   oo:
     

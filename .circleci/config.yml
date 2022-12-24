@@ -108,8 +108,8 @@ jobs:
 workflows:
   work:
     jobs:
-      - o
-      - oa
+      - oo
+      - ooa
       - oob
       - ooc
       - ood
